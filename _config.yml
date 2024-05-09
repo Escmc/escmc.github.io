@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: escmc
+weibo_username: u/7918115979
 zhihu_username: escmc
 github_username: escmc
 twitter_username: escmc
