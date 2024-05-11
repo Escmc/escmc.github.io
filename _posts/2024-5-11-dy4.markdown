@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "<span style="color:black">快手5.8版本更新：全新功能一览</span>"
+title:      "抖音4.0版本发布：全新功能大揭秘"
 date:       2024-5-11 20:44:50
 author:     "LGH"
 header-img: "img/post-bg-dy4.jpg"
