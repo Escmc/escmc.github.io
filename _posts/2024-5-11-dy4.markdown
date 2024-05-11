@@ -1,18 +1,17 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "抖音4.0版本发布：全新功能大揭秘"
 date:       2024-5-11 20:44:50
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+author:     "LGH"
+header-img: "img/post-bg-by4.jpg"
 catalog: true
 tags:
     - Meta
 ---
 
-> “Yeah It's on. ”
+> “Yeah It's old. ”
 
-[download]https://escmc.github.io/File/dy4.0.apk
+# 点击此处下载[download](https://escmc.github.io/File/dy4.0.apk)
 
 ## 新功能介绍
 
