@@ -3,7 +3,7 @@ layout:     post
 title:      "抖音4.0版本发布：全新功能大揭秘"
 date:       2024-5-11 20:44:50
 author:     "LGH"
-header-img: "img/post-bg-by4.jpg"
+header-img: "img/post-bg-dy4.jpg"
 catalog: true
 tags:
     - Meta
@@ -11,7 +11,7 @@ tags:
 
 > “Yeah It's old. ”
 
-# 点击此处下载[download](https://escmc.github.io/File/dy4.0.apk)
+## 点击此处下载[download](https://escmc.github.io/File/dy4.0.apk)
 
 ## 新功能介绍
 
