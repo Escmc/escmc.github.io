@@ -8,6 +8,18 @@ catalog: true
 tags:
     - Meta
 ---
+---
+layout:     post
+title:      "抖音4.0版本发布：全新功能大揭秘"
+date:       2024-5-11 20:44:50
+author:     "LGH"
+header-img: "img/post-bg-dy4.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+> “Yeah It's old. ”
 
 <div align="center">
     <img  width=180 src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/logo.png"/>
