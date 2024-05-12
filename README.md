@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[LGH Blog](https://escmc.github.io)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://escmc.github.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -50,7 +50,7 @@ Ports
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳  中文文档（有点过时）](https://github.com/Escmc/escmc.github.io/blob/master/_doc/README.zh.md)
 
 
 License
